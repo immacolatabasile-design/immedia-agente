@@ -34,3 +34,8 @@
 - Cosa è successo: il PM ha confermato il go-live dell'hub a **ottobre 2025**. La segnalazione sulle date è chiusa. Nella bozza il periodo dei KPI (gen–giu 2026) sarà descritto come "il primo semestre 2026, con l'hub online da ottobre 2025", senza "primi sei mesi". Il report ADV non viene modificato perché è la fonte.
 - Cosa serve: niente.
 - Chi sblocca: —
+
+## 27/11/2026 · A29 · INFO
+- Cosa è successo: creata nel Gmail del PM la **bozza** della mail al cliente (destinatario indicato dal PM). Chiede la conferma scritta dell'autorizzazione, il livello di condivisione dei dati e il nome dell'approvatore. La mail non è stata inviata. Il PM ha inoltre deciso: citazione non richiesta e prova esterna assente (punti 8 e 9 restano ❌).
+- Cosa serve: il PM controlla la bozza e la invia. Poi aspettiamo la risposta del cliente.
+- Chi sblocca: PM, poi cliente
