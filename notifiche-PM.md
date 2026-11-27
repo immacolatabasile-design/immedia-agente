@@ -39,3 +39,8 @@
 - Cosa è successo: creata nel Gmail del PM la **bozza** della mail al cliente (destinatario indicato dal PM). Chiede la conferma scritta dell'autorizzazione, il livello di condivisione dei dati e il nome dell'approvatore. La mail non è stata inviata. Il PM ha inoltre deciso: citazione non richiesta e prova esterna assente (punti 8 e 9 restano ❌).
 - Cosa serve: il PM controlla la bozza e la invia. Poi aspettiamo la risposta del cliente.
 - Chi sblocca: PM, poi cliente
+
+## 27/11/2026 · A29 · INFO
+- Cosa è successo: le bozze `casi/A29/bozze/case-study_v1.md` e `social_v1.md` (LinkedIn B2B e Instagram B2C) sono pronte per il **redattore**, che decide racconto e tono. Ho ricontrollato date, nomi e numeri rispetto al brief e al report. Non c'è nessun KPI numerico: al loro posto `[NUMERI IN ATTESA DEL LIVELLO DI CONDIVISIONE]`.
+- Cosa serve: revisione del redattore. Per i numeri, la risposta del cliente sul livello di condivisione. Gli screenshot dell'hub dall'art director. La data di pubblicazione.
+- Chi sblocca: redattore · PM con il cliente · art director
