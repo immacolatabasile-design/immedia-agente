@@ -29,3 +29,8 @@
 - Cosa è successo: il blocco sui due approvatori lato cliente è stato risolto dal PM con l'opzione B: approva una persona sola indicata dal cliente, l'altro responsabile marketing resta in copia. Registrata in `memoria.md` sezione 2 come **ECC-01** (solo per questo case).
 - Cosa serve: il nome e il ruolo dell'approvatore, che deve indicare il cliente.
 - Chi sblocca: PM con il cliente
+
+## 27/11/2026 · A29 · INFO
+- Cosa è successo: il PM ha confermato il go-live dell'hub a **ottobre 2025**. La segnalazione sulle date è chiusa. Nella bozza il periodo dei KPI (gen–giu 2026) sarà descritto come "il primo semestre 2026, con l'hub online da ottobre 2025", senza "primi sei mesi". Il report ADV non viene modificato perché è la fonte.
+- Cosa serve: niente.
+- Chi sblocca: —
