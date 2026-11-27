@@ -75,4 +75,9 @@ _Nessuno ancora: da compilare dopo l'assessment generale con i diversi profili d
 _Nessun case ancora registrato._
 
 ### Eccezioni registrate
-_Nessuna eccezione ancora registrata._
+
+#### ECC-01 · A29 · Più approvatori lato cliente
+- **Case:** A29 (27/11/2026)
+- **Descrizione:** il cliente ha due brand con due responsabili marketing (Energy to Build e A29 Plus), quindi gli approvatori sono due invece di uno.
+- **Come è stata gestita:** decisione del PM, opzione B. Approva una persona sola, che indica il cliente (per esempio chi coordina il marchio A29). L'altro responsabile marketing resta in copia. Il nome dell'approvatore è ancora da avere dal cliente.
+- **Stato:** solo per questo case.

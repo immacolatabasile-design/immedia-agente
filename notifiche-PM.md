@@ -24,3 +24,8 @@
 - Cosa è successo: mancano citazione del cliente (brief: "non richiesta") e prova esterna (premi/stampa/partner: "nessuno noto"); mancano gli screenshot dell'hub.
 - Cosa serve: decidere se chiedere una citazione con nome e ruolo; screenshot dell'hub dall'art director (brand book e grafiche social sono già nella cartella del team creativo).
 - Chi sblocca: PM (citazione, prova esterna) · art director (screenshot)
+
+## 27/11/2026 · A29 · INFO
+- Cosa è successo: il blocco sui due approvatori lato cliente è stato risolto dal PM con l'opzione B: approva una persona sola indicata dal cliente, l'altro responsabile marketing resta in copia. Registrata in `memoria.md` sezione 2 come **ECC-01** (solo per questo case).
+- Cosa serve: il nome e il ruolo dell'approvatore, che deve indicare il cliente.
+- Chi sblocca: PM con il cliente
